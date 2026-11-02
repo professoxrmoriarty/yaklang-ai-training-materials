@@ -5193,7 +5193,7 @@
       "relPath": "legacy/Web Fuzzer/fuzz-hotpatch.md",
       "path": "/products/legacy/Web Fuzzer/fuzz-hotpatch",
       "url": "https://yaklang.com/products/legacy/Web Fuzzer/fuzz-hotpatch",
-      "title": "热加载",
+      "title": "HotPatch",
       "size": 4078
     },
     {
@@ -5401,7 +5401,7 @@
       "relPath": "legacy/module/subdomain.md",
       "path": "/products/legacy/module/subdomain",
       "url": "https://yaklang.com/products/legacy/module/subdomain",
-      "title": "子域名收集",
+      "title": "Subdomain Enumeration",
       "size": 1697
     },
     {
